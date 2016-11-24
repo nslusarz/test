@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Zmiana zmiana
 zmiana zmiana
+=======
+zmiana1
+>>>>>>> remotes/origin/master
