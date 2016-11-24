@@ -8,3 +8,4 @@ def sort(data):
 
 sort(data)
 print(data)
+#zmiana zmiana
